@@ -1,6 +1,6 @@
 I wrote a python program to put a taskbar icon with the CPU IDLE Percentage over time.
 
-Lots of this is copied from stackoverflow of course..
+I think it might have a bug if it runs for more than a few weeks. I'm not sure.
 
 This is what it looks like: 
 
